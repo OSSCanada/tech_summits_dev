@@ -2,11 +2,14 @@
 
 ## How to Automate for the Cloud
 
-* Create VSTS Account - Click [here](https://go.microsoft.com/fwlink/?LinkId=307137).
-* Link VSTS Account to Azure - Click [here](https://docs.microsoft.com/en-ca/vsts/billing/set-up-billing-for-your-account-vs#set-up-billing-via-the-azure-portal).
-* Exercise 1 - Local Git Repo Deployment - Click [here](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html).
-* Exercise 2 - Create Repo in VSTS - Click [here](https://docs.microsoft.com/en-us/vsts/git/create-new-repo).
-* Exercise 3 - Enable Continuous Deployment - Click [here](https://docs.microsoft.com/en-us/azure/app-service/app-service-continuous-deployment#overview).
+* Exercise 1 - Create VSTS Account - Click [here](https://go.microsoft.com/fwlink/?LinkId=307137).
+* Exercise 2 - Local Git Repo Deployment - Click [here](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html).
+* Exercise 3 - Create Repo in VSTS - Click [here](https://docs.microsoft.com/en-us/vsts/git/create-new-repo).
+
+**The following two exercises only work if you have your own Azure Subscription success and can create Resource Groups.**
+
+* Exercise 4 - Link VSTS Account to Azure - Click [here](https://docs.microsoft.com/en-ca/vsts/billing/set-up-billing-for-your-account-vs#set-up-billing-via-the-azure-portal).
+* Exercise 5 - Enable Continuous Deployment - Click [here](https://docs.microsoft.com/en-us/azure/app-service/app-service-continuous-deployment#overview).
 
 ## Building Scalable Event-Based Solutions
 
@@ -15,7 +18,4 @@
 ## Quick Draw with Containers
 
 * Exercise 1 - Web App for Containers - Click [here](https://github.com/OSSCanada/microhackfest/tree/master/HOL/03_WebAppContainers).
-* Exercise 2 - Azure Container Instance - Click [here](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal).
-* Exercise 3 - Create Custom Container Image - Click [here](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app).
-* Exercise 4 - Create Container Registry - Click [here](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr).
-* Exercise 5 - Deploy Custom Container into ACI - Click [here](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-deploy-app).
+* Exercise 2 - Deploy Custom Container to Web App for Containers - Click [here](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-custom-docker-image).
